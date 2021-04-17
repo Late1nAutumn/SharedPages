@@ -6,7 +6,7 @@
 
 **[下载链接](https://drive.google.com/file/d/1GfKbIJYoo2sHQgOrpyIXcQs_QgfjBK74/view?usp=sharing)**
 
-**[原mod说明页面](https://www.curseforge.com/among-us/all-mods/town-of-impostors)**
+**[原mod发布页面](https://www.curseforge.com/among-us/all-mods/town-of-impostors)**
 
 ## 用法
 
